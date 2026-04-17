@@ -15,5 +15,5 @@ Qui raccolgo le esercitazioni pratiche svolte durante il corso.
 * `/Linux`: Comandi e appunti sull'amministrazione di sistema.
 
 ## ✉️ Contatti
-* LinkedIn: [Inserisci il tuo link]
+* LinkedIn: https://www.linkedin.com/in/matteo-capone-902aa31a6/
 * Email: matteo.capone97@gmail.com
