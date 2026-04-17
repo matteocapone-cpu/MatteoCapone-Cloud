@@ -1,7 +1,6 @@
-# Portfolio Junior Cloud Specialist - Matteo Capone
+# Junior Cloud Specialist - Matteo Capone
 
 Benvenuti nel mio spazio dedicato alla formazione Cloud con Generation Italy.
-Qui raccolgo le esercitazioni pratiche svolte durante il corso.
 
 ## 🛠 Tecnologie in approfondimento
 * **Cloud:** AWS (EC2, S3, IAM)
